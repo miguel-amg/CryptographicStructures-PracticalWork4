@@ -8,5 +8,8 @@
 
 ***
 
-**Assignment #4**
-Sagemath-based implementations are intended for the post-quantum candidate algorithms **PQC Bike (PKE)** and **Dilithium (DSS)**.
+**Post-quantum assignments:**
+
+Sagemath-based implementations are intended for the post-quantum candidate algorithms:
+- **PQC Bike (PKE)** 
+- **Dilithium (DSS)**.
